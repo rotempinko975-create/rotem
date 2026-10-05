@@ -1,0 +1,7 @@
+{
+  "name": "עשרת תחומי איכות חיים | מתי״א יבנה",
+  "description": "סדנת חקר ואינטגרציה מקצועית של עשרת תחומי איכות חיים לצוותי מתי״א יבנה",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
